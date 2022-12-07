@@ -30,3 +30,4 @@ secondNumber = ((int)digit[1]) -48;
 int resultNumber=firstNumber>secondNumber?resultNumber=firstNumber:resultNumber=secondNumber;
 
 Console.WriteLine(resultNumber);
+
