@@ -5,7 +5,6 @@ System.Random numberSintezator = new System.Random();
 int number = numberSintezator.Next(10, 100);
 
 //Console.WriteLine(number);
-
 //Получаем первое и второе число по отдельности
 int firstNumber = number / 10;
 int secondNumber = number % 10;
